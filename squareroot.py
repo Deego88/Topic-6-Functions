@@ -1,5 +1,5 @@
-#Ricky Deegan
-# info taken from https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
+#Richard Deegan
+#Reference https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
 #This program takes a positive Float as an input
 #and outputs its approx squared root
 
